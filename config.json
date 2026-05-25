@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereonnect",
+        "uuid": 648690,
+        "checksum": "1nbyoe"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
